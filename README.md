@@ -24,7 +24,7 @@ List of python scripts:<br/>
 
 When using NGS-Indel Coder please cite:<br/>
 
-NGS-Indel Coder: A pipeline to code indel characters in phylogenomic data with an example of its application in milkweeds (Asclepias), Julien Boutte, Mark Fishbein, Aaron Liston, and Shannon C.K. Straub. In press in MPE.<br/>
+NGS-Indel Coder: A pipeline to code indel characters in phylogenomic data with an example of its application in milkweeds (Asclepias), Julien Boutte, Mark Fishbein, Aaron Liston, and Shannon C.K. Straub. 2019. MPE. https://doi.org/10.1016/j.ympev.2019.106534.<br/>
 
 The NGS-Indel_Coder_Manual.pdf file contains:<br/>
 
